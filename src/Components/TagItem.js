@@ -9,7 +9,7 @@ class TagItem extends Component {
 
     hasBeenClicked(e, tag) {
         // Use the tag parameter in your search algorithm to find the users with that tag in their message
-        console.log(tag);
+        // console.log(tag);
         e.preventDefault();
     }
 
